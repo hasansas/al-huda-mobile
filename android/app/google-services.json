@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "341889271999",
+    "project_id": "fresh-713be",
+    "storage_bucket": "fresh-713be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341889271999:android:67ebe57a4f719509d39e0a",
+        "android_client_info": {
+          "package_name": "com.bmtalhuda.pasaralhuda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN2nv_OinOcFjKIqgLG2HuguAuJ4cIJ40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341889271999:android:6aef39edc0528d3cd39e0a",
+        "android_client_info": {
+          "package_name": "com.pasaralhuda.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN2nv_OinOcFjKIqgLG2HuguAuJ4cIJ40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341889271999:android:b3ec191ef217e837d39e0a",
+        "android_client_info": {
+          "package_name": "com.pasaralhuda.seller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN2nv_OinOcFjKIqgLG2HuguAuJ4cIJ40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
