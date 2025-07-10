@@ -81,10 +81,9 @@ Then expand this pattern to others like `cart/`, `orders/`, `profile/`, etc.
 ## ✅ When to Migrate
 
 Migrate now if:
+- You care about long-term project health
 - You’re adding major features (wallet, seller panel, multi-tenancy)
 - You want automated testing or CI/CD
-- You expect web/desktop expansion
 - You’re scaling your development team
-- You care about long-term project health
 
 ---
