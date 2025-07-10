@@ -88,8 +88,3 @@ Migrate now if:
 - You care about long-term project health
 
 ---
-
-Let me know if you'd like:
-- 📁 A sample folder structure for `auth/` in FDD
-- 🧪 Testing setup (unit/widget/integration)
-- 🛠️ DI + modular routing scaffolding (using `GoRouter`, `Riverpod`, or `get_it`)
